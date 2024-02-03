@@ -1,0 +1,298 @@
+{
+  "awards": [
+    {
+      "awarder": "Company",
+      "date": "2014-11-01",
+      "summary": "There is no spoon.",
+      "title": "Award"
+    }
+  ],
+  "basics": {
+    "email": "correo@gmail.com",
+    "image": "/me.webp",
+    "label": "Frontend Developer con más de 5 años de experiencia en Programación",
+    "location": {
+      "address": "",
+      "city": "Lima",
+      "countryCode": "ES",
+      "postalCode": "08820",
+      "region": "Perú"
+    },
+    "name": "Leonardo Buleje",
+    "phone": "+51 999999999",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/",
+        "username": "leonardo"
+      },
+      {
+        "network": "X",
+        "url": "https://x.com/",
+        "username": "leonardo"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/leonardodev8",
+        "username": "leonardodev8"
+      }
+    ],
+    "summary": "+5 años de experiencia como Desarrollador Web y Mobile. Actualmente soy Freelance y me dedico a diversos proyectos de Programación. Vivo en Lima, Perú. He trabajado en diversas empresas tanto nacionales como internacionales.",
+    "url": "https://tupaginaweb.dev"
+  },
+  "certificates": [
+    {
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "name": "Certificate",
+      "url": "https://certificate.com"
+    }
+  ],
+  "education": [
+    {
+      "area": "Ingeniero de Software",
+      "courses": [
+        "DB1101 - SQL Server"
+      ],
+      "endDate": "2020-01-01",
+      "institution": "Universidad",
+      "score": "4.0",
+      "startDate": "2015-01-01",
+      "studyType": "Bachelor",
+      "url": "https://www.universidad.edu"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Dev",
+        "Programming"
+      ],
+      "name": "Tech"
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native speaker",
+      "language": "Spanish"
+    },
+    {
+      "fluency": "Intermediate",
+      "language": "English"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Descripcion de Primer Proyecto",
+      "highlights": [
+        "Javascript",
+        "En desarrollo"
+      ],
+      "isActive": true,
+      "name": "Proyecto 01",
+      "url": "https://proyecto01.dev"
+    },
+    {
+      "description": "Descripcion del Segundo Proyecto",
+      "highlights": [
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "isActive": true,
+      "name": "Proyecto 02",
+      "url": "https://proyecto02.dev"
+    },
+    {
+      "description": "Descripcion del Tercer Proyecto",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Spring Boot"
+      ],
+      "isActive": true,
+      "name": "Proyecto 03",
+      "url": "https://proyecto03.dev"
+    },
+    {
+      "description": "Descripcion del Cuarto Proyecto",
+      "github": "https://github.com",
+      "highlights": [
+        "Mongo DB",
+        "Kotlin"
+      ],
+      "isActive": true,
+      "name": "Proyecto 04",
+      "url": "https://proyecto04.dev"
+    },
+    {
+      "description": "Descripcion del Quinto Proyecto",
+      "highlights": [
+        "+15k Usuarios Activos",
+        "Swift",
+        "Xcode"
+      ],
+      "name": "Proyecto 05",
+      "url": "https://proyecto05.dev"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "summary": "Description…",
+      "url": "https://publication.com"
+    }
+  ],
+  "references": [
+    {
+      "name": "Leonardo",
+      "reference": "Reference…"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ],
+      "level": "Master",
+      "name": "HTML"
+    },
+    {
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ],
+      "level": "Master",
+      "name": "CSS"
+    },
+    {
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ],
+      "level": "Master",
+      "name": "JavaScript"
+    },
+    {
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ],
+      "level": "Avanzado",
+      "name": "Tailwind"
+    },
+    {
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ],
+      "level": "Avanzado",
+      "name": "TypeScript"
+    },
+    {
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ],
+      "level": "Avanzado",
+      "name": "Node"
+    },
+    {
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ],
+      "level": "Avanzado",
+      "name": "MySQL"
+    },
+    {
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ],
+      "level": "Avanzado",
+      "name": "Git"
+    },
+    {
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ],
+      "level": "Avanzado",
+      "name": "GitHub"
+    },
+    {
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ],
+      "level": "Avanzado",
+      "name": "Next.js"
+    },
+    {
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ],
+      "level": "Avanzado",
+      "name": "React"
+    }
+  ],
+  "volunteer": [
+    {
+      "endDate": "2013-01-01",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ],
+      "organization": "Organization",
+      "position": "Volunteer",
+      "startDate": "2012-01-01",
+      "summary": "Description…",
+      "url": "https://organization.com/"
+    }
+  ],
+  "work": [
+    {
+      "endDate": null,
+      "highlights": [
+        "Started the company"
+      ],
+      "name": "Company 01",
+      "position": "Senior Frontend Developer",
+      "startDate": "2021-01-01",
+      "summary": "Lideré exitosamente la implementación de proyectos frontend complejos, desde la planificación hasta la entrega. Mi enfoque se centra en la excelencia técnica y la innovación, siempre buscando mejorar la eficiencia y la usabilidad de las aplicaciones.",
+      "url": "https://"
+    },
+    {
+      "endDate": "2021-09-01",
+      "highlights": [
+        "Started the company"
+      ],
+      "name": "Company 02",
+      "position": "Semi Senior Frontend Developer",
+      "startDate": "2015-06-01",
+      "summary": "Demostré habilidades sólidas en la implementación de diseños responsivos y la colaboración efectiva con equipos multidisciplinarios, participé activamente en la resolución de problemas y la optimización de rendimiento, mejorando la eficiencia de las aplicaciones en un 20%.",
+      "url": "https://"
+    }
+  ]
+}
